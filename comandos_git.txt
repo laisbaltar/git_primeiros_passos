@@ -1,1 +1,8 @@
 I'm a Pandacorn
+
+comandos_git
+1. git init (inicia o repositório git)
+2. git status (demonstra o status dos arquivos no repositório)
+3. git commit -m (commitar as modificações dos arquivos modificados e colocar uma mensagem para as futuras gerações)
+4. git add . (adiciona todos os arquivos modificados no repositório)
+5. 
