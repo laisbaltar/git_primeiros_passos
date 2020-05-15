@@ -1,8 +1,57 @@
-I'm a Pandacorn
+I'm a Pandacorn, Lucas is also a Pandacorn
 
-comandos_git
+-------------------------|
+> comandos_git
+-------------------------|
+
+-------------------------|
+> Documentação do Git
+-------------------------|
+  https://git-scm.com/
+-------------------------|
+
+-----------------------------------------------------|
+Meios de se iniciar um repo no git
+-----------------------------------------------------|
+______________________________________________________________________________________________________________________________
+> Modo 1 :
+==============================================================================================================================
+> Para um repo criado localmente, deve-se usar o **git init**, ele irá criar uma pasta .git, responsável por trackear seu projeto
+------------------------------------------------------------------------------------------------------------------------------
 1. git init (inicia o repositório git)
 2. git status (demonstra o status dos arquivos no repositório)
 3. git commit -m (commitar as modificações dos arquivos modificados e colocar uma mensagem para as futuras gerações)
 4. git add . (adiciona todos os arquivos modificados no repositório)
-5. 
+5. git push origin master
+------------------------------------------------------------------------------------------------------------------------------
+
+______________________________________________________________________________________________________________________________
+> Modo 2 :
+==============================================================================================================================
+> Caso o repo tenha sido criado no GitHub, pode-se fazer o clone dele, e caso uma chave SSH tenha sido configurada, ele já virá inicializado
+
+--------------------------------|
+1. git clone + (link do repo)
+--------------------------------|
+> Exemplos
+
+Com HTTPS :
+> git clone https://github.com/laisbaltar/aula_html5_css3.git
+
+Com SSH :
+> git clone git@github.com:laisbaltar/aula_html5_css3.git
+
+> RESULTADO :
+Será criada uma pasta com os arquivos presentes no repo
+
+
+
+
+
+
+
+  __
+  ||
+|=<>=| Excalibur cravada no seu arquivo, jamais remover
+  ||
+__||_______________________
